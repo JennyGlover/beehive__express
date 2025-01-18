@@ -2,4 +2,4 @@
 Beehive project backend
 
 **Link to Project Frontend**
-[**beehive__react**](https://github.com/JennyGlover/behive__react)
+[**beehive__react**](https://github.com/JennyGlover/beehive__react)
